@@ -3,6 +3,7 @@ public class logout {
 
 
         System.out.println("this is happening in the login branch");
-        
+        System.out.println("login branch");
+        System.out.println("another ligit mergene in the login branch");
     }
 }
